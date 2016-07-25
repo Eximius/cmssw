@@ -1,0 +1,3 @@
+<bin file="test_serialization.cpp">
+    <use name="CondFormats/CondTest"/>
+</bin>
